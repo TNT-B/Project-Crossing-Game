@@ -1,0 +1,6 @@
+Use : 
+. <W,A,S,D> to move
+. <ENTER> to interact 
+. <L> to save game
+. <T> to load game
+

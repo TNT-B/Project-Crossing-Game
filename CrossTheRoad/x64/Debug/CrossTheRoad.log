@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\thanh\OneDrive\Documents\GitHub\Crossing-Game\CrossTheRoad\Constant.h(6,9): warning C4068: unknown pragma 'disable'
+C:\Users\thanh\OneDrive\Documents\GitHub\Crossing-Game\CrossTheRoad\Game.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\thanh\OneDrive\Documents\GitHub\Crossing-Game\CrossTheRoad\Game.cpp(484,98): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CrossTheRoad.vcxproj -> C:\Users\thanh\OneDrive\Documents\GitHub\Crossing-Game\CrossTheRoad\x64\Debug\CrossTheRoad.exe
